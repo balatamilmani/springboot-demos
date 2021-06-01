@@ -1,8 +1,9 @@
 ### Sample code which Connects to two different Datasources
 
 1. Bring up the application by running MultipleDsDemoApplication class
-2. Create the necessary Tables and Sequences
-3. Connect to h2 Database console using two Browser windows http://localhost:8080/h2-console 
+2. Connect to h2 Database console using two Browser windows http://localhost:8080/h2-console 
+3. Create the necessary Tables and Sequences
+
 
 <br>
 
